@@ -1,0 +1,9 @@
+List of required packages to run the code at any point.
+Started from a clean python environment, some packages may have been preinstalled, but wil update this list as i move forward in the implementation. This will not be a script, maybe i will change this later:
+
+
+# Playing soundfiles
+pip3 install playsound
+
+# Recording audio
+pip3 install pyaudio

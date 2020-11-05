@@ -2,3 +2,8 @@ The goal of this project is to download a dataset that is not pre-cleaned, meani
 
 Learning goal:
 - Transform a huge dataset into a smaller dataset with relevant features
+
+Potential cleaning projects:
+- Data.world
+- Data.gov
+- Reddit datasets
